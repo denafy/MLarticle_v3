@@ -4,3 +4,7 @@ libfftw3-dev
 gfortran
 wget
 unzip
+povray
+build-essential
+gfortran
+libomp-dev
