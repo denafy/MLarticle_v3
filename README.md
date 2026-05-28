@@ -15,8 +15,8 @@ The materials demonstrate how machine learning (ML) methods can be integrated in
 
 Launch the notebooks via Binder:
 
-Tutorials 1,2,3,7: https://mybinder.org/v2/gh/doublelayer/ACSMaterialsAu_2025_ML-modeling/HEAD or https://mybinder.org/v2/gh/denafy/MLarticle_v3.git/HEAD  
-Tutorials 4,5,6: https://mybinder.org/v2/gh/denafy/MLarticle_v2.git/HEAD
+- Tutorials 1,2,3,7: https://mybinder.org/v2/gh/doublelayer/ACSMaterialsAu_2025_ML-modeling/HEAD or https://mybinder.org/v2/gh/denafy/MLarticle_v3.git/HEAD  
+- Tutorials 4,5,6: https://mybinder.org/v2/gh/denafy/MLarticle_v2.git/HEAD
 
 Alternatively, run locally using the provided environment files.
 
